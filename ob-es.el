@@ -159,5 +159,5 @@ to do that."
             (save-buffer))
         output))))
 
-(provide 'ob-elasticsearch)
-;;; ob-elasticsearch.el ends here
+(provide 'ob-es)
+;; ob-elasticsearch.el ends here
